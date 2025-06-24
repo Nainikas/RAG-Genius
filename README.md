@@ -31,6 +31,7 @@
    Then visit http://localhost:8501.
 
 **Project layout**
+
 /src: ingestion, vector store, retrieval and inference logic
 
 /app: Streamlit demo
