@@ -5,7 +5,7 @@
 /data/cache/
 
 # Raw PDFs (if you don’t want them versioned)
-#/data/pdfs/
+/data/pdfs/
 
 # Python caches
 __pycache__/
