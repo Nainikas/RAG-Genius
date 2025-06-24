@@ -1,0 +1,15 @@
+# Environment
+.env
+
+# FAISS index cache
+/data/cache/
+
+# Raw PDFs (if you don’t want them versioned)
+#/data/pdfs/
+
+# Python caches
+__pycache__/
+*.py[cod]
+
+# Virtualenv
+venv/
