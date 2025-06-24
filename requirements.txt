@@ -6,3 +6,4 @@ openai>=0.27.0
 python-dotenv>=1.0.0
 llama-cpp-python>=0.1.80   # only if you plan to use a local LLaMA
 boto3>=1.26.0              # for AWS S3 access
+tiktoken>=0.4.0
